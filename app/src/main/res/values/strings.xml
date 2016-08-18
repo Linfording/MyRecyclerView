@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDaily</string>
+    <string name="title_activity_staggered">StaggeredActivity</string>
+</resources>
